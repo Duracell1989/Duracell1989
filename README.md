@@ -17,5 +17,4 @@ C# / .NET 10 · Avalonia UI · .NET MAUI · SwiftUI (learning) · Rider
 
 ## Contact
 
-- Personal: b89.dev@proton.me
-- Dura IT: DuraITSolutions@pm.me
+b89.dev@proton.me
