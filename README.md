@@ -2,14 +2,17 @@
 
 C#/.NET developer based in the Netherlands. Software engineer at [@EnergyEssentials](https://github.com/EnergyEssentials) by day; building tools under [@Dura-IT](https://github.com/Dura-IT) on the side.
 
-## What lives here
+## Here on GitHub
 
-- **[RomForge](https://github.com/Duracell1989/RomForge)** — cross-platform ROM management tool for the OfflineList DAT ecosystem. C# / .NET 10 / Avalonia. macOS, Windows, Linux.
+- **[RomForge](https://github.com/Duracell1989/romforge)** — cross-platform ROM management tool for the OfflineList DAT ecosystem. C# / .NET 10 / Avalonia. macOS, Windows, Linux.
+
+## Most of my work lives on Codeberg
+
+The bulk of my personal projects are on **[codeberg.org/Duracell1989](https://codeberg.org/Duracell1989)** — privacy-first, EU-hosted, no tracking, no Copilot training. KeyPressMeter, LifeEvents and more live there.
 
 ## Elsewhere
 
-- **[@Dura-IT](https://github.com/Dura-IT)** — my brand for shipping developer tools and libraries (SevenZipSharper, and more coming).
-- **[codeberg.org/Duracell1989](https://codeberg.org/Duracell1989)** — most of my personal projects live here (privacy-first EU host).
+- **[@Dura-IT](https://github.com/Dura-IT)** — my brand for shipping developer tools and libraries (SevenZipSharper, with Questmark coming to mobile).
 
 ## Stack
 
