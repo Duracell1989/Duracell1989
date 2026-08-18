@@ -5,10 +5,11 @@ C#/.NET developer based in the Netherlands. Senior Software Engineer at [@Energy
 ## Here on GitHub
 
 - **[RomForge](https://github.com/Duracell1989/romforge)** — cross-platform ROM management tool for the OfflineList DAT ecosystem. C# / .NET 10 / Avalonia. macOS, Windows, Linux.
+- **[Brewinator](https://github.com/Duracell1989/brewinator)** — CLI that fetches and archives release notes for outdated Homebrew packages, so you never install an update blind. Swift. `brew install duracell1989/tap/brewinator`.
 
-## Most of my work lives on Codeberg
+## My default host is Codeberg
 
-The bulk of my personal projects are on **[codeberg.org/Duracell1989](https://codeberg.org/Duracell1989)** — privacy-first, EU-hosted, no tracking, no Copilot training. KeyPressMeter, LifeEvents and more live there.
+Personal projects go to **[codeberg.org/Duracell1989](https://codeberg.org/Duracell1989)** by default — privacy-first, EU-hosted, no tracking, no Copilot training. KeyPressMeter, LifeEvents and more live there. The repos here on GitHub are the exceptions: RomForge for its release pipeline, Brewinator for its Homebrew tap.
 
 ## Elsewhere
 
