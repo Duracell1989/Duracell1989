@@ -13,7 +13,7 @@ Personal projects go to **[codeberg.org/Duracell1989](https://codeberg.org/Durac
 
 ## Elsewhere
 
-- **[@Dura-IT](https://github.com/Dura-IT)** — my brand for shipping developer tools and libraries (SevenZipSharper, with Questmark coming to mobile).
+- **[@Dura-IT](https://github.com/Dura-IT)** — my brand for shipping developer tools and libraries (SevenZipSharper, and Questmark, now live on the App Store and Google Play).
 
 ## Background
 
